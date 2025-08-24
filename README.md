@@ -1,7 +1,7 @@
 # Decentralized Ride-Sharing Platform 🚗⛓️
 
 ![RideShare Banner](./assets/rideshare-banner.png)
-*Add your project banner/logo image here*
+
 
 ---
 
@@ -104,8 +104,6 @@ The contract uses STX (Stacks native token) for payments and maintains ride stat
 
 ## 🚀 Getting Started
 
-![Setup Instructions](./assets/setup-guide.png)
-*Visual setup guide*
 
 ### Prerequisites
 - Node.js and npm
@@ -159,26 +157,6 @@ clarinet deploy --testnet
 
 ---
 
-## 🤝 Contributing
-
-![Contributing Guide](./assets/contributing-guide.png)
-*How to contribute to the project*
-
-We welcome contributions from the community! Here's how you can help:
-
-1. **Fork the repository**
-2. **Create a feature branch** (`git checkout -b feature/amazing-feature`)
-3. **Commit your changes** (`git commit -m 'Add amazing feature'`)
-4. **Push to the branch** (`git push origin feature/amazing-feature`)
-5. **Open a Pull Request**
-
-### Development Guidelines
-- Follow Clarity best practices
-- Add tests for new features
-- Update documentation
-- Ensure code passes all checks
-
----
 
 ## 📄 License
 
